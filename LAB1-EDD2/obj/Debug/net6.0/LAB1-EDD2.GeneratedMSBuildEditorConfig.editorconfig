@@ -16,16 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\juand\OneDrive\Escritorio\projects 2023\LAB1-EDD2\LAB1-EDD2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/juand/OneDrive/Escritorio/projects 2023/LAB1-EDD2/LAB1-EDD2/Views/FileLoader/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZUxvYWRlclxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/juand/OneDrive/Escritorio/projects 2023/LAB1-EDD2/LAB1-EDD2/Views/FileLoader/load.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZUxvYWRlclxsb2FkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/juand/OneDrive/Escritorio/projects 2023/LAB1-EDD2/LAB1-EDD2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juand/OneDrive/Escritorio/projects 2023/LAB1-EDD2/LAB1-EDD2/Views/Home/load.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2FkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/juand/OneDrive/Escritorio/projects 2023/LAB1-EDD2/LAB1-EDD2/Views/Shared/Error.cshtml]

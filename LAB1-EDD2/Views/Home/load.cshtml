@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Load file";
+}
+<h1>@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("load", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+	<label>Subir Archivo "input"</label>
+	<p></p>
+	<input type="file" name="file" />
+	<input type="submit" , value="Enviar" />
+}
