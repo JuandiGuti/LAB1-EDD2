@@ -2,3 +2,7 @@ INSERT;{"name":"eric","dpi":"3826294264857","datebirth":"1976-10-23T22:41:25.836
 INSERT;{"name":"jose","dpi":"3826294264857","datebirth":"1976-10-23T22:41:25.836Z","address":"austin"}
 INSERT;{"name":"esteban","dpi":"7834294264859","datebirth":"1976-10-23T22:41:25.836Z","address":"guatemala"}
 INSERT;{"name":"pepe","dpi":"9023294264856","datebirth":"1976-10-23T22:41:25.836Z","address":"rio"}
+PATCH;{"name":"esteban","dpi":"7834294264859","datebirth":"2020-10-23T22:41:25.836Z","address":"puerto rico"}
+PATCH;{"name":"pepe","dpi":"9023294264856","datebirth":"2023-10-23T22:41:25.836Z","address":"estados unidos"}
+DELETE;{"name":"jose","dpi":"3826294264857","datebirth":"1976-10-23T22:41:25.836Z","address":"austin"}
+DELETE;{"name":"pepe","dpi":"9023294264856","datebirth":"2023-10-23T22:41:25.836Z","address":"austin}

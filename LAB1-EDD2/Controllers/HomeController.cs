@@ -81,7 +81,7 @@ namespace LAB1_EDD2.Controllers
                             {
                                 foreach (person foreachPerson in jsonListString)
                                 {
-                                    if (foreachPerson == personJson)
+                                    if (foreachPerson.dpi == personJson.dpi)
                                     {
                                         foreachPerson.datebirth = personJson.datebirth;
 										foreachPerson.address = personJson.address;
